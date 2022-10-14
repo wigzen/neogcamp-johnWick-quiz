@@ -11,7 +11,7 @@ Live Link : https://replit.com/@wigzen/John-wick-quiz#index.js
 * You Enter required input 
 * You play the quiz based on John Wick
 * If you are right it will add a point to your score otherwise it will reduce the point.
-* It will display your scor
+* It will display your score
 
 ## teckstack 
 JS (Node.js)
